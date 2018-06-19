@@ -132,7 +132,7 @@
             return places;
         }
 
-        var rows = readTextFile('https://raw.githubusercontent.com/alexanderjpowell/bourdain-travel-destinations/master/data.txt');
+        var rows = readTextFile('https://raw.githubusercontent.com/alexanderjpowell/anthony-bourdain-travel-destinations/master/models/data.txt');
 
         for (var i = 1; i < rows.length; i++) { // Start at 1 to ignore column headers
           var data = rows[i].split('|');
