@@ -1,0 +1,141 @@
+lat|lng|placeName
+48.861774|2.338818|Paris, France
+64.121138|-21.833222|Reykjavík, Iceland
+40.294264|-74.356878|New Jersey
+21.021479|105.759600|Hanoi, Vietnam
+3.738477|102.277996|Malaysia
+37.680516|13.929376|Sicily
+36.160961|-115.133125|Las Vegas, Nevada
+41.558247|63.798841|Uzbekistan
+-43.241674|171.228412|New Zealand
+25.764768|-80.207489|Miami, Florida
+-12.049217|-77.051153|Peru
+48.188788|-73.303637|Quebec, Canada
+59.322564|18.069250|Stockholm, Sweden
+18.236532|-66.542746|Puerto Rico
+28.689382|-100.541390|Piedras Negras, Mexico
+24.587043|73.729372|Rajasthan, India
+22.576880|88.383240|Kolkata, Indian
+19.064676|72.868128|Mumbai, India
+37.530175|126.998466|Seoul, South Korea
+-6.203429|106.861788|Jakarta, Indonesia
+33.891351|35.483854|Beirut, Lebanon
+53.328669|-6.606029|Ireland
+5.589154|-0.183852|Ghana
+45.521940|-122.653709|Portland, Oregon
+47.606925|-122.324220|Seattle, Washington
+-22.518557|16.527589|Namibia
+55.722248|37.575374|Moscow, Russia
+34.036095|-118.244233|Los Angeles, California
+31.382714|121.613909|Shanghai, China
+24.616222|101.299732|Yunnan, China
+40.752309|-73.992078|New York City, New York
+-23.615488|-46.688729|Sao Paulo, Brazil
+-17.644693|-149.452467|Tahiti, French Polynesia
+-15.545274|-146.023957|Tuamoto Archipelago, French Polynesia
+-9.279504|-139.575688|Marquesas Islands, French Polynesia
+41.498476|-81.703809|Cleveland, Ohio
+22.266390|114.187083|Hong Kong
+-34.605066|-58.374936|Buenos Aires
+32.781143|-79.937530|Charleston, South Carolina
+43.317739|11.012005|Tuscany, Italy
+41.511746|-72.798853|Connecticut
+1.301640|103.823638|Singapore
+52.530747|13.391743|Berlin, Germany
+49.281684|-123.120129|Vancouver, Canada
+35.202731|24.894935|Crete, Greece
+37.782280|20.896685|Zakynthos, Greece
+29.971080|-90.083075|New Orleans, Louisiana
+51.516345|-0.104375|London, England
+55.950993|-3.189204|Edinburgh, England
+18.001112|-76.881122|Jamaica
+44.418844|26.104711|Bucharest, Romania
+46.453919|24.525637|Transylvania, Romania
+19.537072|-155.377031|Hawaii
+17.967285|102.610912|Laos
+6.246588|-75.568855|Medellin, Colombia
+10.392424|-75.499259|Cartagena, Colombia
+21.502864|39.230183|Jeddah, Saudi Arabia
+-32.979220|-56.040114|Uruguay
+33.474610|-112.105867|Phoenix, Arizona
+35.688321|139.767369|Tokyo, Japan
+41.391163|2.174858|Barcelona, Spain
+30.057687|31.230996|Cairo, Egypt
+19.042630|-98.201895|Puebla, Mexico
+19.428242|-99.158044|Mexico City, Mexico
+45.501808|12.287525|Venice, Italy
+38.900994|-77.032439|Washington, DC
+38.494949|-28.385130|Azores, Portugal
+41.864082|-87.637244|Chicago, Illinois
+14.597326|120.982306|Manilla, Phillipines
+14.849174|120.658840|Pampanga, Phillipines
+10.322670|123.910827|Cebu, Phillipines
+6.871122|79.977421|Sri Lanka
+20.837633|107.173649|Ha Long Bay, Vietnam
+10.769507|106.689684|Saigon, Vietnam
+-33.439612|-70.643660|Santiago, Chile
+-37.816905|144.965974|Melbourne, Australia
+39.287413|-76.615346|Baltimore, Maryland
+42.328772|-83.073122|Detroit, Michigan
+42.885283|-78.874841|Buffalo, New York
+37.780748|-122.411853|San Francisco, California
+13.708432|100.531438|Bangkok, Thailand
+7.913226|98.307693|Phuket, Thailand
+45.653481|-110.565932|Livingston, Montana
+40.573910|-74.154381|Staten Island, New York
+40.722266|-73.812150|Queens, New York
+40.652974|-73.952560|Brooklyn, New York
+40.833718|-73.871149|The Bronx, New York
+40.056219|9.049735|Sardinia, New York
+8.892730|-80.021196|Panama
+41.017417|29.019008|Istanbul, Turkey
+48.260044|-3.958431|Brittany, France
+50.067519|14.438837|Prague, Czechia
+42.401442|-73.785246|Hudson Valley, New York
+-0.208566|-78.487542|Quito, Ecuador
+-1.594314|-80.838475|Salango, Ecuador
+-2.197667|-79.887864|Guayaquil, Ecuador
+45.766246|126.608754|Harbin, China
+43.306031|5.913630|Provence, France
+11.928735|108.442471|Dalat, Vietnam
+44.754433|-68.986679|Maine
+13.257203|-61.203952|St Vincent and the Grenadines
+42.374151|-83.360790|Livonia, Michigan
+39.945775|-82.981254|Columbus, Ohio
+44.967211|-93.270414|Minneapolis, Minnesota
+39.743139|-105.002750|Denver, Colorado
+30.284933|-97.749325|Austin, Texas
+43.039240|-87.907701|Milwaukee, Wisconsin
+5.827005|-9.686892|Liberia
+9.114653|76.586063|Kerala, India
+25.249102|55.294992|Dubai, United Arab Emirates
+41.904876|12.508523|Rome, Italy
+40.413228|-3.699062|Madrid, Spain
+18.506513|-72.330263|Haiti
+12.329659|104.548503|Cambodia
+12.344711|-86.054042|Nicaragua
+48.210992|16.377992|Vienna, Austria
+36.726231|-91.873814|West Plains, Missouri
+-1.454611|-48.486786|Belem, Brazil
+42.358043|-71.058012|Boston, Massachusetts
+43.155205|142.646664|Hokkaido, Japan
+22.798389|-82.148579|Cuba
+22.206642|113.545087|Macau
+40.871058|14.242751|Naples, Italy
+35.010604|-115.473226|Mojave Dessert, California
+50.427952|30.545019|Kiev, Ukraine
+51.271861|30.224632|Chernobyl, Ukraine
+36.308916|43.703773|Kurdistan, Iraq
+-18.087379|36.038090|Mozambique
+39.086254|-94.601851|Kansas City, Missouri
+44.963663|14.943269|Croatia
+38.717895|-9.136516|Lisbon, Portugal
+60.163205|24.941752|Helsinki, Finland
+32.496317|-116.929119|Tijuana, Mexico
+5.375817|100.391790|Penang, Malaysia
+-33.868974|151.206215|Sydney, Australia
+34.129386|-116.317677|Joshua Tree, California
+44.375077|12.201222|Emilia-Romagna, Italy
+47.224123|4.340630|Burgundy, France
+-22.997344|-43.354018|Rio de Janeiro, Brazil
+18.697896|-70.328824|Dominican Republic
